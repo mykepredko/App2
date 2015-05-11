@@ -1,7 +1,7 @@
 App2
 ================
 
-
+Scratch: Repeat with a variable
 
 ### Project Information
 ```
