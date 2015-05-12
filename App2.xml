@@ -3,7 +3,7 @@
     <field name="VAR">distance</field>
     <value name="VALUE">
       <block type="math_number" id="2">
-        <field name="NUM">10</field>
+        <field name="NUM">5</field>
       </block>
     </value>
     <next>
