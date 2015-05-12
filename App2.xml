@@ -14,7 +14,7 @@
           </block>
         </value>
         <statement name="DO">
-          <block type="movement_reverse" id="5">
+          <block type="movement_forward" id="20">
             <next>
               <block type="robot_delay" id="6" inline="true">
                 <value name="DELAY">
